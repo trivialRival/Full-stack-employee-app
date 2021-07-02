@@ -1,0 +1,36 @@
+.wid {
+    width: 300px;
+}
+#pos {
+    margin-top: 16px;
+    margin-left: 385px;
+}
+#inpfield {
+    width: 100%;
+    /* margin-left: 40px; */
+    /* margin: auto; */
+    /* margin-right: 0px; */
+}
+#close {
+    margin-left: 450px;
+    position: absolute;
+    height: 31px;
+    float: right;
+    /* display: inline-block; */
+    padding: 2px 5px;
+}
+.btn {
+    text-shadow: 4px;
+}
+.temp {
+    position: relative;
+    margin: 0;
+    left: 50%;
+    margin-bottom: 10px;
+}
+
+.pureRed {
+    display: block;
+    margin: 0px;
+    border: 0px;
+}
